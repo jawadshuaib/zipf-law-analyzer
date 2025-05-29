@@ -1,0 +1,5 @@
+{
+  "name": "Zipf Law Analyzer",
+  "description": "An application to upload documents (.docx, .xlsx) and analyze word frequencies according to Zipf's Law, displaying results through interactive charts and tables.",
+  "requestFramePermissions": []
+}
