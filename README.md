@@ -89,11 +89,6 @@ This application runs **directly in a modern web browser** using ES Modules, CDN
 - **No `npm install` or `npm start`:** Standard Node.js project commands are not applicable.
 - **Modifications:** If you modify `.tsx` files, ensure your browser is not serving stale cached versions (use a hard refresh like Ctrl+Shift+R or Cmd+Shift+R).
 
-## API Keys Not Required
-
-- This application operates entirely client-side.
-- No external API keys are needed.
-
 ## File Structure Overview
 
 ```
@@ -108,22 +103,4 @@ This application runs **directly in a modern web browser** using ES Modules, CDN
 ├── metadata.json       # Application metadata
 ├── README.md           # This file
 └── types.ts            # TypeScript type definitions
-```
-
-## Future Enhancements (Suggestions)
-
-- Support for more file types.
-- Advanced text processing options.
-- If performance with Babel Standalone becomes an issue for larger codebases, introduce a lightweight build step (e.g., esbuild) for development and production.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
-## License
-
-(Placeholder - Consider adding a license, e.g., MIT License)
-
-```
-
 ```
