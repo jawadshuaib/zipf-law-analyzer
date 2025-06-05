@@ -1,6 +1,6 @@
 # Zipf Law Analyzer
 
-https://zipf-law-analyzer-411630486828.us-west1.run.app/
+https://zipf-law-analyzer.netlify.app/
 
 A web application that allows users to upload text documents (.docx) or word-frequency tables (.xlsx) to analyze and visualize word distributions according to Zipf's Law. The application provides interactive charts, detailed data tables, and export functionalities, all processed client-side with in-browser transpilation for JSX/TypeScript.
 
